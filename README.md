@@ -35,7 +35,7 @@ Follow these steps to configure your bot:
 
 ### 2️⃣ Upload Script to VPS
 
-Upload your script to a designated folder on your server.
+Download `domain_checker.py` and upload your script to a designated folder on your server e.g Cyberpanel Directory.
 
 * Assume you upload the script to this path:
     ```
