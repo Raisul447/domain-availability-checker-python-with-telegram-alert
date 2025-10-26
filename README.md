@@ -152,8 +152,9 @@ Follow these steps to set up a **Cron Job** to run your Python script automatica
 This project was developed by:
 
 **Raisul Islam**
--   Website: [shagor.dev](https://shagor.dev)
--   Email: deploy@shagor.dev
+-   Website: [raisul.dev](https://raisul.dev)
+-   Email: deploy@raisul.dev
+-   Conatct: https://raisul.dev/contact
 
 ---
 
